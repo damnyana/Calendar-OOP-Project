@@ -1,0 +1,10 @@
+﻿  MyCalendar.cpp
+F:\fmi\2020-2021\oop\Calendar\Calendar\Event.h(22,21): warning C4018: '<': signed/unsigned mismatch
+F:\fmi\2020-2021\oop\Calendar\Calendar\Event.h(42,22): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+F:\fmi\2020-2021\oop\Calendar\Calendar\MyCalendar.cpp(94,22): warning C4018: '<': signed/unsigned mismatch
+F:\fmi\2020-2021\oop\Calendar\Calendar\Event.h(22,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+F:\fmi\2020-2021\oop\Calendar\Calendar\Event.h(42,22): warning C4018: '<': signed/unsigned mismatch
+F:\fmi\2020-2021\oop\Calendar\Calendar\Vector.h(129): warning C4715: 'Vector<String>::at': not all control paths return a value
+  Calendar.vcxproj -> F:\fmi\2020-2021\oop\Calendar\Debug\Calendar.exe
